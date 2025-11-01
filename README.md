@@ -89,3 +89,16 @@ Divya Monga
 🎓 Robotics & AI Engineering Student  
 💬 Exploring accessible AI and lightweight LLMs  
 📫 [LinkedIn](#https://www.linkedin.com/in/divya-ji4/)
+
+### 📸 Demo
+
+<img width="1445" height="409" alt="image" src="https://github.com/user-attachments/assets/ac4ac67d-cc92-4271-80da-cc5cdb602a6e" />
+
+
+### ⭐ Contribute
+
+Feel free to open a PR, suggest improvements, or experiment with other small models. Let’s make open-source AI accessible for everyone! 💪
+
+### 📜 License
+
+MIT License © 2025 Divya Monga
